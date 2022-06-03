@@ -1,2 +1,2 @@
 print("check")
-print("kek")
+print("keka")
